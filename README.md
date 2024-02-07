@@ -1,7 +1,7 @@
 # thrash_gpfs
-## Author : Ali Snedden
-## License : GPL-3.0
-## Date : 07-feb-2024
+#### Author : Ali Snedden
+#### License : GPL-3.0
+#### Date : 07-feb-2024
 
 ### Description :
 This code is intended to thrash our gpfs file system.  It contains a shell script 
